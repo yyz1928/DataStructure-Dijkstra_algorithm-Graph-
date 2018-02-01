@@ -1,0 +1,11 @@
+#,Time,%Passes,Change,Test,Pass,Partial,Fail,Untested
+0,Sat Dec 02 19:48:06 EST 2017,85,85,Assignment6Suite,EfficiencyTest1+ ShortestPathTest0+ ShortestPathTest1+ ShortestPathTest2+ ShortestPathTest3+ ShortestPathTest5+ , ,ShortestPathTest4- , ,
+1,Sat Dec 02 20:17:13 EST 2017,0,-85,Assignment6Suite, , ,EfficiencyTest1- ShortestPathTest0- ShortestPathTest1- ShortestPathTest2- ShortestPathTest3- ShortestPathTest4 ShortestPathTest5- , ,
+2,Sat Dec 02 20:18:52 EST 2017,0,0,Assignment6Suite, , ,EfficiencyTest1 ShortestPathTest0 ShortestPathTest1 ShortestPathTest2 ShortestPathTest3 ShortestPathTest4 ShortestPathTest5 , ,
+3,Sat Dec 02 20:19:31 EST 2017,85,85,Assignment6Suite,EfficiencyTest1+ ShortestPathTest0+ ShortestPathTest1+ ShortestPathTest2+ ShortestPathTest3+ ShortestPathTest5+ , ,ShortestPathTest4 , ,
+4,Sat Dec 02 20:22:39 EST 2017,71,-14,Assignment6Suite,ShortestPathTest0 ShortestPathTest1 ShortestPathTest2 ShortestPathTest3 ShortestPathTest5 , ,EfficiencyTest1- ShortestPathTest4 , ,
+5,Sat Dec 02 20:23:26 EST 2017,85,14,Assignment6Suite,EfficiencyTest1+ ShortestPathTest0 ShortestPathTest1 ShortestPathTest2 ShortestPathTest3 ShortestPathTest5 , ,ShortestPathTest4 , ,
+6,Sat Dec 02 20:39:12 EST 2017,85,0,Assignment6Suite,EfficiencyTest1 ShortestPathTest0 ShortestPathTest1 ShortestPathTest2 ShortestPathTest3 ShortestPathTest5 , ,ShortestPathTest4 , ,
+6,Sat Dec 02 20:39:19 EST 2017,85,0,Assignment6Suite,EfficiencyTest1 ShortestPathTest0 ShortestPathTest1 ShortestPathTest2 ShortestPathTest3 ShortestPathTest5 , ,ShortestPathTest4 , ,
+7,Sat Dec 02 20:43:37 EST 2017,100,15,Assignment6Suite,EfficiencyTest1 ShortestPathTest0 ShortestPathTest1 ShortestPathTest2 ShortestPathTest3 ShortestPathTest4+ ShortestPathTest5 , , , ,
+8,Sat Dec 02 20:49:51 EST 2017,100,0,Assignment6Suite,EfficiencyTest1 ShortestPathTest0 ShortestPathTest1 ShortestPathTest2 ShortestPathTest3 ShortestPathTest4 ShortestPathTest5 , , , ,
